@@ -20,13 +20,13 @@ const Footer = () => {
 							<h2 class="mb-4 text-sm font-semibold uppercase text-white">CREATED BY</h2>
 							<ul class="text-gray-400 dark:text-gray-400 font-medium">
 								<li class="mb-2">
-									<a href="https://instagram.com/21rrdittt_?igshid=NTc4MTIwNjQ2YQ==" class="hover:underline">
+									<a href="https://instagram.com/raditrnto" class="hover:underline">
 										RADITIA
 									</a>
 								</li>
 								<li>
-									<a href="https://instagram.com/codeditproject?igshid=NTc4MTIwNjQ2YQ==" class="hover:underline">
-										CODEDITPROJECT
+									<a href="https://instagram.com/r.3151505" class="hover:underline">
+										RADIT GABUT
 									</a>
 								</li>
 							</ul>
@@ -35,12 +35,12 @@ const Footer = () => {
 							<h2 class="mb-4 text-sm font-semibold uppercase text-white">Follow us</h2>
 							<ul class="text-gray-400 dark:text-gray-400 font-medium">
 								<li class="mb-2">
-									<a href="https://instagram.com/fivesciencemal?igshid=NTc4MTIwNjQ2YQ==" class="hover:underline ">
+									<a href="https://instagram.com/gilakkipa5" class="hover:underline ">
 										Instagram
 									</a>
 								</li>
 								<li>
-									<a href="#" class="hover:underline">
+									<a href="https://dewascripts.xyz" class="hover:underline">
 										Website
 									</a>
 								</li>
